@@ -8,7 +8,7 @@ const AppContainer = () => {
     return (
         <main className={`${theme === "dark" ? "dark-theme" : ""}`}>
             <Header />
-            <div>
+            <div>  
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quam
                 dolorem inventore molestias quos magnam ipsum ipsam voluptatibus?
                 Tenetur laboriosam sint, non ratione est nulla totam culpa deserunt esse
